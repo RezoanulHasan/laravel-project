@@ -14,13 +14,9 @@
 <body>
     @include('layouts.navbar')
 
+    @yield('content')
    
-   
-    <div className='min-h-[calc(100vh-136px)]   overflow-hidden'>
-   @yield('content')
-
-
-    </div>
+    
 
     @include('layouts.footer')
 </body>
