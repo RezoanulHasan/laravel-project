@@ -19,7 +19,7 @@
 <body>
 
 
-    <h1 class="text-center  text-red-500   mb-10 text-3xl">My<span class="text-black">-projects<span></h1>
+    <h1 class="text-center  text-red-500   mb-5 text-3xl">My<span class="text-black">-projects<span></h1>
 
     
 

@@ -1,11 +1,11 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>About Me</h1>
+<h1 class="mt-5 text-center mb-5 font-bold  text-2xl">My Skills</h1>
     </div>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@4.4.4/dist/full.min.css" rel="stylesheet" type="text/css" />
     <script src="https://cdn.tailwindcss.com"></script>
-
+<div class="text-center">
     <ul class="steps flex justify-center">
         <li data-content="?" class="step step-neutral"></li>
         <li data-content="!" class="step step-neutral"></li>
@@ -15,7 +15,7 @@
         <li data-content="!" class="step step-neutral"></li>
         <li data-content="●" class="step step-neutral"></li>
     </ul>
-
+    </div>
     <div class='font-bold  font-mono text-xl mt-4'>
         <p class='bg-green-300  text-black'> Expertise:: React-js, HTML5, CSS3, Bootstrap, Tailwinds, DaisyUI, ES6, Rest API, React Router </p>
 
@@ -30,8 +30,8 @@
     </div>
 
 
-    "
-    <h1>Personal Strengths & Skills"</h1>
+
+    <h1 class="mt-5 text-center  font-bold  text-2xl">Personal Strengths & Skills</h1>
 
 
 <div class='flex gap-5 justify-center align-center'>

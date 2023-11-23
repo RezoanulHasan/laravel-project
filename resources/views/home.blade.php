@@ -9,8 +9,8 @@
         <div class="bg-black button rounded-lg text-lightSlate lg:h-48 sm:w-[80vw] lg:w-96 shadow-xl image-full sm:-rotate-[15deg] sm:mt-16 lg:-rotate-[19deg] ">
 
             <div class="card-body  text-center ">
-                <h2 class="card-title text-white">Web Developer...........</h2>
-                <p class='text-2xl text-red-700'>Rezoanul Hasan RIAD............</p>
+                <h2 class="card-title text-red-600">'''''''''''''''Web <Span class="text-white">Developer<Span>'''''''''''''''</h2>
+                <p class='text-2xl text-red-600'>...................Rezoanul  <Span class="text-white">Hasan RIAD<Span>............</p>
                
             </div>
         </div>

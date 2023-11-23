@@ -43,7 +43,7 @@
                 <textarea id="message" name="message" rows="4" class="w-full border rounded px-3 py-2" required></textarea>
 </div>     <!-- Submit Button -->
             <div class="text-center">
-                <button type="submit" class="  btn text-red-500 px-4 py-2 rounded">Submit</button>
+                <button type="submit" class=" btn text-red-500 px-4 py-2 rounded">Submit</button>
             </div>
         </form>
     </div>
